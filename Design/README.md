@@ -1,1 +1,1 @@
-This folder contains mock-up for the TAMI membership card.
+This folder contains mock-ups for the TAMI membership card.
